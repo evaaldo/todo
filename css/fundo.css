@@ -1,0 +1,8 @@
+.fundo__topo {
+    background-image: url(/img/bg-desktop-dark.jpg);
+    height: 250px;
+}
+
+.fundo__baixo {
+    text-align: center;
+}
